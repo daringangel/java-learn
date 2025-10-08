@@ -1,0 +1,31 @@
+Write a program to check whether a number is prime or not.
+
+Write a program to print the first 10 terms of the Fibonacci series.
+
+Write a program to print the factorial of a number.
+
+Write a program to print all numbers from 1 to 100 that are divisible by both 3 and 5.
+
+Write a program to reverse the digits of a number (e.g., 1234 → 4321).
+
+Write a program to check if a number is a palindrome (e.g., 121 → Palindrome).
+
+Write a program to find the sum of digits of a number.
+
+Write a program to print a right-angled triangle pattern with stars:
+
+*
+**
+***
+****
+
+
+Write a program to print this pyramid pattern with stars:
+
+   *
+  ***
+ *****
+*******
+
+
+Write a program to print all the prime numbers between 1 and 100.
