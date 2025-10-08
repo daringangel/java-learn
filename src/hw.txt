@@ -1,0 +1,13 @@
+Write a program to print numbers from 1 to 20 using a loop.
+
+Write a program to print all even numbers between 1 and 50.
+
+Write a program to print the square of the first 10 natural numbers.
+
+Write a program to calculate the sum of the first 100 natural numbers.
+
+Write a program to print the multiplication table of 5.
+
+Write a program to print the numbers from 10 down to 1 (reverse counting).
+
+Write a program to keep asking the user for a number until they enter 0 (use a do-while loop).
