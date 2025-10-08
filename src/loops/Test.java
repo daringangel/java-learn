@@ -24,6 +24,8 @@ public class Test {
             System.out.println(i);
         }
 
+        System.out.println("This statement runs outside loop");
+
 
 
 
