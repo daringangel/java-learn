@@ -20,7 +20,8 @@ public class Test {
 //        }while (i<=5);
 //    }
       // for loop
-        for (int i = 1; i <= 5; i++) {
+        int i;
+        for (i = 1; i <= 5; i++) {
             System.out.println(i);
         }
 
